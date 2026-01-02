@@ -10,11 +10,11 @@ pip install -r requirements.txt
 ## Notebook files
 
 ### Notebook 01
-This notebook performs hemodynamic feature engineering only.
+This notebook performs hemodynamic feature engineering only. /r
 No outcome information is used in this notebook.
 
 ### Notebook 02
-This notebook performs final model training, evaluation, and interpretation.
+This notebook performs final model training, evaluation, and interpretation. /r
 Hyperparameters are fixed and loaded from prior cross-validated tuning.
 
 ## Data
