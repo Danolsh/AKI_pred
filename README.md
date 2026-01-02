@@ -1,4 +1,4 @@
-# Joint Occurrence of Cardiac Index with Mean Arterial Pressure and Risk of Acute Kidney Injury in the Surgical Intensive Care Unit 
+# Joint Assessment of Cardiac Index with Mean Arterial Pressure and Risk of Acute Kidney Injury in the Surgical Intensive Care Unit 
 
 ## System requirements/installation
 Built using Python 3.9.18. All package ruqirements in `requirements.txt`
